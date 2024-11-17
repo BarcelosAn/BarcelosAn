@@ -65,4 +65,3 @@ Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado nas
 - Melhoria de UX em plataformas SaaS
 - Como integrar melhor ferramentas de banco de dados e APIs em projetos grandes
 - Como aplicar técnicas de **análise de dados** no desenvolvimento de plataformas de recomendação
-- 
