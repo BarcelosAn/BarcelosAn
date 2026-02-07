@@ -1,67 +1,31 @@
 # Olá, eu sou Barcelos! 👋
 
-Sou **Analista de Dados Pleno**, apaixonado por aprender novas tecnologias e aplicar soluções criativas para resolver problemas. Além do meu trabalho com dados, estou me aventurando no **back-end** e **front-end** como hobby, desenvolvendo projetos pessoais onde posso integrar minhas habilidades analíticas.
+Este repositório funciona como um laboratório pessoal de tecnologia. É aqui que eu estudo, testo e brinco com ideias ou às vezes algo nasce de uma necessidade do trabalho, outras vezes pura curiosidade. Gosto de explorar ferramentas, montar arquiteturas, quebrar coisas e refazer de um jeito melhor só para entender o porquê.
 
-## 🧑‍💻 Sobre mim
+## Como uso este GitHub
 
-- **Cargo Atual**: Analista de Dados Pleno
-- **Interesses**:
-  - Desenvolvimento de software (back-end e front-end)
-  - Aprendizado contínuo de novas tecnologias
-  - Integração de **APIs** e **automação de vendas**
-  - Análise de dados e soluções criativas
+Uso este espaço como um registro de aprendizado contínuo. Alguns projetos estão completos, outros não, e isso é intencional. Muitos deles existem apenas para experimentar uma abordagem nova, validar uma ideia ou aprender uma tecnologia específica. O foco não é entrega final, mas o processo.
 
-## 🚀 Tecnologias que estou explorando
+Programação, para mim, vai muito além de uma obrigação profissional. É um hobby que acompanha meu dia a dia. Estudo porque gosto, porque me diverte e porque entender como as coisas funcionam sempre me puxa para o próximo teste, a próxima refatoração ou a próxima ideia.
 
-- **React** (Front-end)
-- **Node.js** (Back-end)
-- **Python** (Automação e Análise de Dados)
-- **MongoDB** (Banco de Dados)
+## Stack principal
 
-Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado nas tecnologias que mais me motivam.
+### Análise de Dados
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-ffb700?style=flat&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white" /> 
+### Engenharia de Dados
 
-## 🛠️ Tecnologias que uso
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+### Automação
 
-### **Análise de Dados** 📊
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" /> 
+### Front-end
 
-[![PySpark](https://img.shields.io/badge/PySpark-FF3621?style=for-the-badge&logo=apachespark&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)]()
-[![Power BI](https://img.shields.io/badge/Power_BI-ffb700?style=for-the-badge&logo=simpleanalytics&logoColor=black)]()
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> 
+### Back-end
 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+### Infraestrutura e dados
 
-### **Front-End** 🌐
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1DA1F2?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaSCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-
-
-### **Back-End** 💻
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
-
-
-### **Ferramentas** 🛠️
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-
-
-### **Automatização de Vendas** 🛍️
-
-[![Amazon](https://img.shields.io/badge/amazon-181717?style=for-the-badge&logo=amazon&logoColor=FF9900)]()
-[![Shopee](https://img.shields.io/badge/Shopee-F24E1E?style=for-the-badge&logo=shopee&logoColor=white)]()
-[![Mercado Livre](https://img.shields.io/badge/mercado_livre-ffb700?style=for-the-badge&logo=mercadopago&logoColor=black)]()
-
-
-## 🌱 O que estou aprendendo
-
-- Otimização de APIs para escalabilidade
-- Melhoria de UX em plataformas SaaS
-- Como integrar melhor ferramentas de banco de dados e APIs em projetos grandes
-- Como aplicar técnicas de **análise de dados** no desenvolvimento de plataformas de recomendação
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-555555?style=flat" /> 
+---
